@@ -1,4 +1,4 @@
-export const githubOwner = 'peerjako-aws';
+export const githubOwner = 'rsgaikwad';
 export const repoName = 'cdk-ecs-cicd';
 export const gitDevBranch = 'dev'
 export const gitProdBranch = 'master'
